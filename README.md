@@ -11,6 +11,7 @@
 [Docs](https://openvinotoolkit.github.io/anomalib) •
 [License](https://github.com/openvinotoolkit/anomalib/blob/main/LICENSE)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kandapagari/anomalib/main)
 [![python](https://img.shields.io/badge/python-3.7%2B-green)]()
 [![pytorch](https://img.shields.io/badge/pytorch-1.8.1%2B-orange)]()
 [![openvino](https://img.shields.io/badge/openvino-2021.4.2-purple)]()
